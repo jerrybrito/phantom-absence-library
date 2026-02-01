@@ -1,0 +1,2 @@
+# Requires: forgotten-latency
+# (Not available on PyPI)
